@@ -1,6 +1,6 @@
-# เปลี่ยน Theme สี โดย Flutter
+# Flutter: เปลี่ยน Theme สี
 
-[บทความนี้](./change_theme.md) Upload ขึ้น:
+[บทความนี้](./change_theme.md) Upload ขึ้นที่:
 - 
 - 
 - 
